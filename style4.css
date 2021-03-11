@@ -180,10 +180,10 @@ nav ul li a{
 
 @keyframes animate{
     0%,100%{
-        background-image: url(img/img9.jpg);
+        background-image: url(img9.jpg);
     }
     50%{
-        background-image: url(img/img10.jpg);
+        background-image: url(img10.jpg);
     }
     
 }
