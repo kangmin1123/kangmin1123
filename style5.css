@@ -50,10 +50,10 @@ body{
 
 @keyframes animate{
     0%,100%{
-        background-image: url(img/img3.jpg);
+        background-image: url(img3.jpg);
     }
     50%{
-        background-image: url(img/img4.jpg);
+        background-image: url(img4.jpg);
     }
     
 }
